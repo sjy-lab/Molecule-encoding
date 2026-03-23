@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,mae,mse,r2,rmse
+ESOL,FCFP,measured log solubility in mols per litre,1,val,0.815,1.273,0.713,1.128
+ESOL,FCFP,measured log solubility in mols per litre,1,test,0.857,1.321,0.697,1.149
+ESOL,FCFP,measured log solubility in mols per litre,2,val,0.892,1.365,0.7,1.169
+ESOL,FCFP,measured log solubility in mols per litre,2,test,0.851,1.327,0.712,1.152
+ESOL,FCFP,measured log solubility in mols per litre,3,val,0.912,1.634,0.67,1.278
+ESOL,FCFP,measured log solubility in mols per litre,3,test,0.889,1.384,0.64,1.176
+ESOL,FCFP,measured log solubility in mols per litre,4,val,1.018,1.773,0.611,1.331
+ESOL,FCFP,measured log solubility in mols per litre,4,test,0.826,1.113,0.755,1.055
+ESOL,FCFP,measured log solubility in mols per litre,5,val,0.866,1.233,0.741,1.11
+ESOL,FCFP,measured log solubility in mols per litre,5,test,0.877,1.459,0.671,1.208

@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+MUTAG,MACCS,label,1,val,0.789,0.853,0.833,0.909,0.769
+MUTAG,MACCS,label,1,test,0.895,0.949,0.923,0.889,0.96
+MUTAG,MACCS,label,2,val,0.737,0.897,0.762,1.0,0.615
+MUTAG,MACCS,label,2,test,0.865,0.958,0.894,0.913,0.875
+MUTAG,MACCS,label,3,val,0.789,0.91,0.833,0.909,0.769
+MUTAG,MACCS,label,3,test,0.919,0.878,0.943,0.893,1.0
+MUTAG,MACCS,label,4,val,0.789,0.821,0.833,0.909,0.769
+MUTAG,MACCS,label,4,test,0.865,0.958,0.889,1.0,0.8
+MUTAG,MACCS,label,5,val,0.789,0.917,0.846,0.846,0.846
+MUTAG,MACCS,label,5,test,0.73,0.907,0.762,0.941,0.64

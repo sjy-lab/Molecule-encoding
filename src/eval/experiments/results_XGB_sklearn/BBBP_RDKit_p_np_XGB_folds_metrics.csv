@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BBBP,RDKit,p_np,1,val,0.913,0.909,0.945,0.912,0.98
+BBBP,RDKit,p_np,1,test,0.897,0.933,0.934,0.913,0.956
+BBBP,RDKit,p_np,2,val,0.882,0.903,0.926,0.894,0.96
+BBBP,RDKit,p_np,2,test,0.907,0.922,0.941,0.925,0.956
+BBBP,RDKit,p_np,3,val,0.887,0.908,0.929,0.899,0.96
+BBBP,RDKit,p_np,3,test,0.866,0.891,0.915,0.886,0.946
+BBBP,RDKit,p_np,4,val,0.872,0.904,0.917,0.903,0.933
+BBBP,RDKit,p_np,4,test,0.892,0.915,0.93,0.915,0.946
+BBBP,RDKit,p_np,5,val,0.867,0.912,0.914,0.902,0.926
+BBBP,RDKit,p_np,5,test,0.876,0.909,0.92,0.911,0.929

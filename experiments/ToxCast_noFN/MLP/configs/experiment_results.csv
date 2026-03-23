@@ -1,0 +1,17 @@
+timestamp,dataset,model_hidden_dims,model_dropout_rates,model_activation,model_use_normalization,model_num_heads,model_transformer_dim,model_transformer_dropout,model_num_layers,model_embedding_dim,train_epochs,train_batch_size,train_learning_rate,train_weight_decay,train_patience,train_n_splits,fingerprint_type,target_assay,model_type,num_folds,status,input_dim,total_samples
+20260207_111742,ToxCast,"[1024, 512, 256, 128]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,FCFP,NVS_ADME_hCYP2C19,MLP,5,completed,1024,7787
+20260207_112435,ToxCast,"[512, 256, 128, 64]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,ECFP,NVS_ADME_hCYP2C19,MLP,5,completed,1024,7787
+20260207_113515,ToxCast,"[1024, 512, 256, 128]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,MACCS,NVS_ADME_hCYP2C19,MLP,5,completed,167,7787
+20260207_114202,ToxCast,"[512, 256, 128, 64]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,PubChem,NVS_ADME_hCYP2C19,MLP,5,completed,881,7787
+20260207_115059,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP,5,completed,2048,7787
+20260207_115432,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,SMARTS,NVS_ADME_hCYP2C19,MLP,5,completed,164,7787
+20260207_122440,ToxCast,"[1024, 512, 256, 128]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,FCFP,NVS_ADME_hCYP2C19,MLP,5,completed,1024,365
+20260207_122519,ToxCast,"[512, 256, 128, 64]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,ECFP,NVS_ADME_hCYP2C19,MLP,5,completed,1024,365
+20260207_122602,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP,5,completed,2048,365
+20260207_122641,ToxCast,"[512, 256, 128, 64]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,PubChem,NVS_ADME_hCYP2C19,MLP,5,completed,881,365
+20260207_122706,ToxCast,"[1024, 512, 256, 128]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,MACCS,NVS_ADME_hCYP2C19,MLP,5,completed,167,365
+20260207_122737,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,SMARTS,NVS_ADME_hCYP2C19,MLP,5,completed,164,365
+20260208_202002,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,64,0.0001,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP,5,completed,2048,365
+20260208_202034,ToxCast,"[1024, 512, 256]","[0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,32,0.0001,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP,5,completed,2048,365
+20260208_202249,ToxCast,"[1024, 512, 256]","[0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,32,0.001,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP,5,completed,2048,365
+20260208_203107,ToxCast,"[512, 256]","[0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,32,0.001,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP,5,completed,2048,365

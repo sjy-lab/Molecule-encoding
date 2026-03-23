@@ -1,0 +1,16 @@
+{
+    "model_path": "experiments/ESOL/MLP+TL/models/ESOL_PubChem_measured log solubility in mols per litre_MLP+TL_model.pth",
+    "external_data": "src/data/Processed_dataset/AQUA_cln.csv",
+    "model_type": "MLP+TL",
+    "fingerprint_type": "PubChem",
+    "task_type": "regression",
+    "dataset_name": "ESOL",
+    "target_assay": "measured log solubility in mols per litre",
+    "timestamp": "20260228_155707",
+    "metrics": {
+        "MAE": 1.0019,
+        "RMSE": 1.3047,
+        "R2": 0.6766,
+        "n_total": 1011
+    }
+}

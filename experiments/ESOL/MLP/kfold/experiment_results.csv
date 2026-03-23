@@ -1,0 +1,2 @@
+timestamp,dataset,model_hidden_dims,model_dropout_rates,model_activation,model_use_normalization,model_num_heads,model_transformer_dim,model_num_layers,model_embedding_dim,train_epochs,train_batch_size,train_learning_rate,train_weight_decay,train_patience,train_n_splits,fingerprint_type,target_assay,model_type,num_folds,status,input_dim,total_samples
+20251026_220201,ESOL,"[512, 256, 32]","[0.1, 0.1, 0.1]",LeakyReLU,True,4,512,4,16,200,32,0.0001,0.0001,5,5,PubChem,measured log solubility in mols per litre,MLP,5,completed,881,1117

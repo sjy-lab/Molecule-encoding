@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BACE,ECFP,Class,1,val,0.807,0.886,0.794,0.778,0.812
+BACE,ECFP,Class,1,test,0.84,0.918,0.824,0.836,0.812
+BACE,ECFP,Class,2,val,0.847,0.904,0.837,0.819,0.855
+BACE,ECFP,Class,2,test,0.833,0.894,0.82,0.814,0.826
+BACE,ECFP,Class,3,val,0.827,0.907,0.806,0.831,0.783
+BACE,ECFP,Class,3,test,0.763,0.86,0.74,0.743,0.737
+BACE,ECFP,Class,4,val,0.813,0.888,0.806,0.773,0.841
+BACE,ECFP,Class,4,test,0.823,0.903,0.809,0.8,0.818
+BACE,ECFP,Class,5,val,0.82,0.867,0.806,0.8,0.812
+BACE,ECFP,Class,5,test,0.799,0.887,0.776,0.794,0.759

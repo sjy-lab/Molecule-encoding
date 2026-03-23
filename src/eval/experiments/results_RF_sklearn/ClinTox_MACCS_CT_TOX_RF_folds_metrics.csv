@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+ClinTox,MACCS,CT_TOX,1,val,0.964,0.941,0.286,1.0,0.167
+ClinTox,MACCS,CT_TOX,1,test,0.964,0.943,0.286,1.0,0.167
+ClinTox,MACCS,CT_TOX,2,val,0.949,0.979,0.0,0.0,0.0
+ClinTox,MACCS,CT_TOX,2,test,0.96,0.938,0.154,1.0,0.083
+ClinTox,MACCS,CT_TOX,3,val,0.957,0.958,0.25,0.5,0.167
+ClinTox,MACCS,CT_TOX,3,test,0.953,0.926,0.133,0.333,0.083
+ClinTox,MACCS,CT_TOX,4,val,0.957,0.963,0.0,0.0,0.0
+ClinTox,MACCS,CT_TOX,4,test,0.949,0.952,0.125,0.333,0.077
+ClinTox,MACCS,CT_TOX,5,val,0.957,0.888,0.25,0.5,0.167
+ClinTox,MACCS,CT_TOX,5,test,0.953,0.944,0.235,0.5,0.154

@@ -1,0 +1,20 @@
+{
+    "model_path": "experiments/BBBP/MLP/models/BBBP_PubChem_p_np_MLP_model.pth",
+    "external_data": "src/data/Processed_dataset/B3DB_aggregated_mv.csv",
+    "model_type": "MLP",
+    "fingerprint_type": "PubChem",
+    "task_type": "classification",
+    "dataset_name": "BBBP",
+    "target_assay": "p_np",
+    "timestamp": "20260228_002436",
+    "metrics": {
+        "AUC-ROC": 0.7167,
+        "Accuracy": 0.6857,
+        "F1": 0.7761,
+        "Precision": 0.6618,
+        "Recall": 0.9381,
+        "threshold": 0.5,
+        "n_positive": 2537,
+        "n_total": 4368
+    }
+}

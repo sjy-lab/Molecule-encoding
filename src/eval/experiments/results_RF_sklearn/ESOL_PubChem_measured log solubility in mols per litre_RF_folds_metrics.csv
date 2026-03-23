@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,mae,mse,r2,rmse
+ESOL,PubChem,measured log solubility in mols per litre,1,val,0.742,1.035,0.768,1.017
+ESOL,PubChem,measured log solubility in mols per litre,1,test,0.743,1.0,0.773,1.0
+ESOL,PubChem,measured log solubility in mols per litre,2,val,0.86,1.385,0.698,1.177
+ESOL,PubChem,measured log solubility in mols per litre,2,test,0.865,1.435,0.688,1.198
+ESOL,PubChem,measured log solubility in mols per litre,3,val,0.794,1.195,0.759,1.093
+ESOL,PubChem,measured log solubility in mols per litre,3,test,0.703,0.919,0.761,0.959
+ESOL,PubChem,measured log solubility in mols per litre,4,val,0.828,1.286,0.718,1.134
+ESOL,PubChem,measured log solubility in mols per litre,4,test,0.805,1.281,0.719,1.132
+ESOL,PubChem,measured log solubility in mols per litre,5,val,0.76,1.116,0.765,1.056
+ESOL,PubChem,measured log solubility in mols per litre,5,test,0.756,1.126,0.746,1.061

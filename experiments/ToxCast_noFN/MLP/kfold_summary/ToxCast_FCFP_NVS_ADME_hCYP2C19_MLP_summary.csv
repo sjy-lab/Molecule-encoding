@@ -1,0 +1,2 @@
+dataset,fingerprint,target_assay,model_type,num_folds,status
+ToxCast,FCFP,NVS_ADME_hCYP2C19,MLP,5,completed

@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BACE,SMARTS,Class,1,val,0.78,0.855,0.759,0.765,0.754
+BACE,SMARTS,Class,1,test,0.793,0.881,0.769,0.792,0.746
+BACE,SMARTS,Class,2,val,0.8,0.906,0.783,0.783,0.783
+BACE,SMARTS,Class,2,test,0.777,0.863,0.762,0.748,0.775
+BACE,SMARTS,Class,3,val,0.793,0.899,0.756,0.828,0.696
+BACE,SMARTS,Class,3,test,0.753,0.841,0.728,0.733,0.723
+BACE,SMARTS,Class,4,val,0.787,0.859,0.775,0.753,0.797
+BACE,SMARTS,Class,4,test,0.803,0.881,0.784,0.787,0.781
+BACE,SMARTS,Class,5,val,0.753,0.827,0.722,0.75,0.696
+BACE,SMARTS,Class,5,test,0.806,0.886,0.779,0.816,0.745

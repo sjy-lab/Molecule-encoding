@@ -1,0 +1,32 @@
+{
+    "dataset": "SIDER",
+    "fingerprint_type": "FCFP",
+    "model_type": "MLP",
+    "model_config": {
+        "hidden_dims": [
+            1024,
+            512,
+            256
+        ],
+        "dropout_rates": [
+            0.3,
+            0.3,
+            0.3
+        ],
+        "activation": "LeakyReLU",
+        "use_normalization": true,
+        "num_heads": 1,
+        "transformer_dim": 512,
+        "transformer_dropout": 0.1,
+        "num_layers": 2,
+        "embedding_dim": null
+    },
+    "training_config": {
+        "epochs": 100,
+        "batch_size": 32,
+        "learning_rate": 1e-05,
+        "weight_decay": 0.001,
+        "patience": 10,
+        "n_splits": 5
+    }
+}

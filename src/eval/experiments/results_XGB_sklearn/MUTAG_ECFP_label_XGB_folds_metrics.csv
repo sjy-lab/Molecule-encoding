@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+MUTAG,ECFP,label,1,val,0.684,0.769,0.7,1.0,0.538
+MUTAG,ECFP,label,1,test,0.868,0.905,0.898,0.917,0.88
+MUTAG,ECFP,label,2,val,0.737,0.885,0.8,0.833,0.769
+MUTAG,ECFP,label,2,test,0.811,0.888,0.851,0.87,0.833
+MUTAG,ECFP,label,3,val,0.684,0.788,0.727,0.889,0.615
+MUTAG,ECFP,label,3,test,0.973,1.0,0.98,0.962,1.0
+MUTAG,ECFP,label,4,val,0.842,0.91,0.87,1.0,0.769
+MUTAG,ECFP,label,4,test,0.757,0.905,0.78,1.0,0.64
+MUTAG,ECFP,label,5,val,0.895,0.962,0.923,0.923,0.923
+MUTAG,ECFP,label,5,test,0.703,0.867,0.744,0.889,0.64

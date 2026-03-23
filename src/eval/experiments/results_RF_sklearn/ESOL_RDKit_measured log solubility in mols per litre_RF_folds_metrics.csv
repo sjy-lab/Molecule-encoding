@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,mae,mse,r2,rmse
+ESOL,RDKit,measured log solubility in mols per litre,1,val,0.677,0.827,0.814,0.91
+ESOL,RDKit,measured log solubility in mols per litre,1,test,0.802,1.144,0.74,1.07
+ESOL,RDKit,measured log solubility in mols per litre,2,val,0.76,0.967,0.786,0.983
+ESOL,RDKit,measured log solubility in mols per litre,2,test,0.745,1.047,0.773,1.023
+ESOL,RDKit,measured log solubility in mols per litre,3,val,0.764,1.047,0.789,1.023
+ESOL,RDKit,measured log solubility in mols per litre,3,test,0.708,0.876,0.771,0.936
+ESOL,RDKit,measured log solubility in mols per litre,4,val,0.807,1.292,0.716,1.137
+ESOL,RDKit,measured log solubility in mols per litre,4,test,0.759,0.979,0.784,0.99
+ESOL,RDKit,measured log solubility in mols per litre,5,val,0.634,0.777,0.836,0.881
+ESOL,RDKit,measured log solubility in mols per litre,5,test,0.708,0.913,0.794,0.955

@@ -1,0 +1,2 @@
+dataset,fingerprint,target_assay,model_type,num_folds,status
+SIDER,RDKit,Nervous system disorders,MLP,5,completed

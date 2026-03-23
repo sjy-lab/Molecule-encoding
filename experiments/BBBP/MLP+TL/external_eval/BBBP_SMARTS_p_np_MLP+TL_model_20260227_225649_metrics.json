@@ -1,0 +1,20 @@
+{
+    "model_path": "experiments/BBBP/MLP+TL/models/BBBP_SMARTS_p_np_MLP+TL_model.pth",
+    "external_data": "src/data/Processed_dataset/B3DB_aggregated_mv.csv",
+    "model_type": "MLP+TL",
+    "fingerprint_type": "SMARTS",
+    "task_type": "classification",
+    "dataset_name": "BBBP",
+    "target_assay": "p_np",
+    "timestamp": "20260227_225649",
+    "metrics": {
+        "AUC-ROC": 0.7488,
+        "Accuracy": 0.7498,
+        "F1": 0.8013,
+        "Precision": 0.7436,
+        "Recall": 0.8687,
+        "threshold": 0.5,
+        "n_positive": 2537,
+        "n_total": 4368
+    }
+}

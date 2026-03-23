@@ -1,0 +1,20 @@
+{
+    "model_path": "experiments/BBBP/MLP/models/BBBP_FCFP_p_np_MLP_model.pth",
+    "external_data": "src/data/Processed_dataset/B3DB_aggregated_mv.csv",
+    "model_type": "MLP",
+    "fingerprint_type": "FCFP",
+    "task_type": "classification",
+    "dataset_name": "BBBP",
+    "target_assay": "p_np",
+    "timestamp": "20260227_224603",
+    "metrics": {
+        "AUC-ROC": 0.8224,
+        "Accuracy": 0.7653,
+        "F1": 0.8208,
+        "Precision": 0.7376,
+        "Recall": 0.9251,
+        "threshold": 0.5,
+        "n_positive": 2537,
+        "n_total": 4368
+    }
+}

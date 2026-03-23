@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+SIDER,SMARTS,Nervous system disorders,1,val,0.854,0.873,0.917,0.963,0.875
+SIDER,SMARTS,Nervous system disorders,1,test,0.873,0.916,0.928,0.973,0.888
+SIDER,SMARTS,Nervous system disorders,2,val,0.9,0.947,0.943,0.991,0.9
+SIDER,SMARTS,Nervous system disorders,2,test,0.873,0.897,0.928,0.972,0.887
+SIDER,SMARTS,Nervous system disorders,3,val,0.854,0.911,0.916,0.972,0.867
+SIDER,SMARTS,Nervous system disorders,3,test,0.923,0.96,0.957,0.991,0.925
+SIDER,SMARTS,Nervous system disorders,4,val,0.854,0.846,0.919,0.939,0.9
+SIDER,SMARTS,Nervous system disorders,4,test,0.926,0.945,0.959,0.987,0.933
+SIDER,SMARTS,Nervous system disorders,5,val,0.923,0.948,0.957,0.991,0.925
+SIDER,SMARTS,Nervous system disorders,5,test,0.922,0.964,0.957,0.987,0.929

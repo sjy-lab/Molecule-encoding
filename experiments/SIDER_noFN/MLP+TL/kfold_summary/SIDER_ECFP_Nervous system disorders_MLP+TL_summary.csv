@@ -1,0 +1,2 @@
+dataset,fingerprint,target_assay,model_type,num_folds,status
+SIDER,ECFP,Nervous system disorders,MLP+TL,5,completed

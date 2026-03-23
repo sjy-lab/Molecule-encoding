@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BBBP,PubChem,p_np,1,val,0.851,0.875,0.903,0.9,0.906
+BBBP,PubChem,p_np,1,test,0.853,0.904,0.903,0.92,0.886
+BBBP,PubChem,p_np,2,val,0.815,0.869,0.877,0.895,0.859
+BBBP,PubChem,p_np,2,test,0.848,0.884,0.898,0.922,0.876
+BBBP,PubChem,p_np,3,val,0.877,0.913,0.921,0.903,0.94
+BBBP,PubChem,p_np,3,test,0.81,0.852,0.875,0.875,0.875
+BBBP,PubChem,p_np,4,val,0.805,0.878,0.87,0.888,0.852
+BBBP,PubChem,p_np,4,test,0.843,0.898,0.899,0.883,0.916
+BBBP,PubChem,p_np,5,val,0.846,0.871,0.899,0.905,0.893
+BBBP,PubChem,p_np,5,test,0.802,0.863,0.865,0.901,0.832

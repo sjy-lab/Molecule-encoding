@@ -1,0 +1,16 @@
+{
+    "model_path": "experiments/ESOL/MLP/models/ESOL_SMARTS_measured log solubility in mols per litre_MLP_model.pth",
+    "external_data": "src/data/Processed_dataset/AQUA_cln.csv",
+    "model_type": "MLP",
+    "fingerprint_type": "SMARTS",
+    "task_type": "regression",
+    "dataset_name": "ESOL",
+    "target_assay": "measured log solubility in mols per litre",
+    "timestamp": "20260228_154642",
+    "metrics": {
+        "MAE": 1.0338,
+        "RMSE": 1.3474,
+        "R2": 0.6551,
+        "n_total": 1011
+    }
+}

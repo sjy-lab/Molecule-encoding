@@ -1,0 +1,7 @@
+timestamp,dataset,model_hidden_dims,model_dropout_rates,model_activation,model_use_normalization,model_num_heads,model_transformer_dim,model_transformer_dropout,model_num_layers,model_embedding_dim,train_epochs,train_batch_size,train_learning_rate,train_weight_decay,train_patience,train_n_splits,fingerprint_type,target_assay,model_type,num_folds,status,input_dim,total_samples
+20260207_172640,SIDER,"[1024, 512, 256]","[0.3, 0.3, 0.3]",LeakyReLU,True,1,1024,0.1,6,,100,64,1e-05,0.01,10,5,SMARTS,Nervous system disorders,MLP+TL,5,completed,128,1292
+20260207_173050,SIDER,"[256, 128, 32]","[0.6, 0.6, 0.6]",LeakyReLU,False,1,256,0.1,2,,100,64,5e-05,0.001,15,5,MACCS,Nervous system disorders,MLP+TL,5,completed,167,1292
+20260207_173225,SIDER,"[512, 128, 64]","[0.3, 0.3, 0.3]",LeakyReLU,True,1,512,0.1,2,,100,32,1e-05,0.001,10,5,PubChem,Nervous system disorders,MLP+TL,5,completed,881,1292
+20260207_191026,SIDER,"[1024, 512, 256]","[0.3, 0.3, 0.3]",LeakyReLU,True,1,512,0.1,2,,100,64,1e-05,0.01,10,5,FCFP,Nervous system disorders,MLP+TL,5,completed,1024,1292
+20260207_191849,SIDER,"[1024, 512, 256]","[0.3, 0.3, 0.3]",LeakyReLU,True,1,1024,0.1,4,,100,64,1e-05,0.01,10,5,ECFP,Nervous system disorders,MLP+TL,5,completed,1024,1292
+20260207_193128,SIDER,"[2048, 1024, 512]","[0.3, 0.3, 0.3]",LeakyReLU,True,1,1024,0.1,4,,100,16,1e-05,0.01,10,5,RDKit,Nervous system disorders,MLP+TL,5,completed,2048,1292

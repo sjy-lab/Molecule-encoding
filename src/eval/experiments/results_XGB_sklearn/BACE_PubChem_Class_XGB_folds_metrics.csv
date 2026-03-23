@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BACE,PubChem,Class,1,val,0.793,0.871,0.774,0.779,0.768
+BACE,PubChem,Class,1,test,0.793,0.906,0.77,0.788,0.754
+BACE,PubChem,Class,2,val,0.807,0.903,0.785,0.803,0.768
+BACE,PubChem,Class,2,test,0.817,0.898,0.801,0.799,0.804
+BACE,PubChem,Class,3,val,0.82,0.878,0.791,0.85,0.739
+BACE,PubChem,Class,3,test,0.76,0.849,0.745,0.724,0.766
+BACE,PubChem,Class,4,val,0.767,0.869,0.755,0.73,0.783
+BACE,PubChem,Class,4,test,0.837,0.902,0.824,0.81,0.839
+BACE,PubChem,Class,5,val,0.76,0.854,0.735,0.746,0.725
+BACE,PubChem,Class,5,test,0.786,0.854,0.763,0.774,0.752

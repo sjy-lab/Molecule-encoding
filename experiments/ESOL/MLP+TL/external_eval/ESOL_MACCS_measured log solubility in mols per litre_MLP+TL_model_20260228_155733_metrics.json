@@ -1,0 +1,16 @@
+{
+    "model_path": "experiments/ESOL/MLP+TL/models/ESOL_MACCS_measured log solubility in mols per litre_MLP+TL_model.pth",
+    "external_data": "src/data/Processed_dataset/AQUA_cln.csv",
+    "model_type": "MLP+TL",
+    "fingerprint_type": "MACCS",
+    "task_type": "regression",
+    "dataset_name": "ESOL",
+    "target_assay": "measured log solubility in mols per litre",
+    "timestamp": "20260228_155733",
+    "metrics": {
+        "MAE": 1.1014,
+        "RMSE": 1.4211,
+        "R2": 0.6163,
+        "n_total": 1011
+    }
+}

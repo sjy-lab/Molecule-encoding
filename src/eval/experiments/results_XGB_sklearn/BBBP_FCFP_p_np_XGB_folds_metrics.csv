@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BBBP,FCFP,p_np,1,val,0.882,0.893,0.924,0.914,0.933
+BBBP,FCFP,p_np,1,test,0.853,0.908,0.903,0.917,0.889
+BBBP,FCFP,p_np,2,val,0.872,0.891,0.915,0.931,0.899
+BBBP,FCFP,p_np,2,test,0.884,0.924,0.922,0.95,0.896
+BBBP,FCFP,p_np,3,val,0.897,0.883,0.935,0.911,0.96
+BBBP,FCFP,p_np,3,test,0.879,0.911,0.922,0.911,0.933
+BBBP,FCFP,p_np,4,val,0.928,0.936,0.953,0.959,0.946
+BBBP,FCFP,p_np,4,test,0.856,0.895,0.905,0.911,0.899
+BBBP,FCFP,p_np,5,val,0.897,0.916,0.934,0.916,0.953
+BBBP,FCFP,p_np,5,test,0.874,0.911,0.915,0.94,0.892

@@ -1,0 +1,6 @@
+timestamp,dataset,model_hidden_dims,model_dropout_rates,model_activation,model_use_normalization,model_num_heads,model_transformer_dim,model_transformer_dropout,model_num_layers,model_embedding_dim,train_epochs,train_batch_size,train_learning_rate,train_weight_decay,train_patience,train_n_splits,fingerprint_type,target_assay,model_type,num_folds,status,input_dim,total_samples
+20260207_121341,ToxCast,"[1024, 512, 256, 128]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,256,0.1,2,,100,32,1e-06,1e-05,10,5,FCFP,NVS_ADME_hCYP2C19,MLP+TL,5,completed,1024,365
+20260207_121402,ToxCast,"[512, 256, 128, 64]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,512,0.1,2,,100,64,1e-06,1e-05,10,5,ECFP,NVS_ADME_hCYP2C19,MLP+TL,5,completed,1024,365
+20260207_121451,ToxCast,"[512, 256, 128, 64]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,512,0.1,2,,100,64,1e-06,1e-05,10,5,PubChem,NVS_ADME_hCYP2C19,MLP+TL,5,completed,881,365
+20260207_155625,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,1024,0.1,2,,100,16,1e-06,0.01,10,5,RDKit,NVS_ADME_hCYP2C19,MLP+TL,5,completed,2048,365
+20260207_160433,ToxCast,"[2048, 1024, 512, 256]","[0.5, 0.4, 0.3, 0.2]",LeakyReLU,False,1,1024,0.1,2,,100,64,1e-05,0.0001,10,5,SMARTS,NVS_ADME_hCYP2C19,MLP+TL,5,completed,164,365

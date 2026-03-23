@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,mae,mse,r2,rmse
+ESOL,MACCS,measured log solubility in mols per litre,1,val,0.715,0.973,0.782,0.986
+ESOL,MACCS,measured log solubility in mols per litre,1,test,0.672,0.813,0.814,0.902
+ESOL,MACCS,measured log solubility in mols per litre,2,val,0.777,1.047,0.768,1.023
+ESOL,MACCS,measured log solubility in mols per litre,2,test,0.682,0.993,0.785,0.996
+ESOL,MACCS,measured log solubility in mols per litre,3,val,0.785,1.238,0.751,1.113
+ESOL,MACCS,measured log solubility in mols per litre,3,test,0.798,1.11,0.713,1.053
+ESOL,MACCS,measured log solubility in mols per litre,4,val,0.756,0.955,0.79,0.977
+ESOL,MACCS,measured log solubility in mols per litre,4,test,0.748,0.99,0.782,0.995
+ESOL,MACCS,measured log solubility in mols per litre,5,val,0.741,0.955,0.799,0.977
+ESOL,MACCS,measured log solubility in mols per litre,5,test,0.755,1.162,0.738,1.078

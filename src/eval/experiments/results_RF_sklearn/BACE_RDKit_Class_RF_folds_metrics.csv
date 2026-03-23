@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BACE,RDKit,Class,1,val,0.82,0.885,0.8,0.818,0.783
+BACE,RDKit,Class,1,test,0.813,0.9,0.786,0.831,0.746
+BACE,RDKit,Class,2,val,0.827,0.9,0.814,0.803,0.826
+BACE,RDKit,Class,2,test,0.81,0.891,0.799,0.779,0.819
+BACE,RDKit,Class,3,val,0.793,0.886,0.77,0.788,0.754
+BACE,RDKit,Class,3,test,0.78,0.855,0.764,0.748,0.781
+BACE,RDKit,Class,4,val,0.8,0.886,0.792,0.76,0.826
+BACE,RDKit,Class,4,test,0.813,0.907,0.799,0.787,0.81
+BACE,RDKit,Class,5,val,0.8,0.871,0.773,0.81,0.739
+BACE,RDKit,Class,5,test,0.783,0.867,0.747,0.8,0.701

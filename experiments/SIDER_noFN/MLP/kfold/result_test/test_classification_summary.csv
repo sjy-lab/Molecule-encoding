@@ -1,0 +1,7 @@
+dataset,fingerprint,model,target_assay,num_folds,total_samples,fold_avg_f1,fold_avg_f1_std,fold_avg_precision,fold_avg_precision_std,fold_avg_recall,fold_avg_recall_std,fold_avg_accuracy,fold_avg_accuracy_std,fold_avg_auc,fold_avg_auc_std
+SIDER,FCFP,MLP,Nervous system disorders,5,1292,0.747,0.096,0.937,0.013,0.632,0.121,0.619,0.106,0.585,0.087
+SIDER,PubChem,MLP,Nervous system disorders,5,1292,0.909,0.011,0.935,0.005,0.885,0.023,0.837,0.019,0.6,0.057
+SIDER,SMARTS,MLP,Nervous system disorders,5,1292,0.961,0.001,0.927,0.003,0.996,0.005,0.924,0.002,0.545,0.043
+SIDER,ECFP,MLP,Nervous system disorders,5,1292,0.58,0.142,0.934,0.025,0.435,0.15,0.451,0.141,0.582,0.094
+SIDER,RDKit,MLP,Nervous system disorders,5,1292,0.85,0.021,0.941,0.007,0.777,0.037,0.748,0.03,0.659,0.05
+SIDER,MACCS,MLP,Nervous system disorders,5,1292,0.869,0.01,0.946,0.008,0.804,0.016,0.776,0.015,0.68,0.046

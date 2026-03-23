@@ -1,0 +1,7 @@
+dataset,fingerprint,model,target_assay,task_type,num_folds,total_samples,f1_mean,f1_std,precision_mean,precision_std,recall_mean,recall_std,accuracy_mean,accuracy_std,auc_mean,auc_std
+ToxCast,PubChem,MLP+TL,NVS_ADME_hCYP2C19,classification,5,365,0.835,0.059,0.791,0.016,0.891,0.112,0.726,0.083,0.523,0.054
+ToxCast,MACCS,MLP+TL,NVS_ADME_hCYP2C19,classification,2,3116,0.863,0.003,0.844,0.026,0.886,0.023,0.832,0.008,0.904,0.006
+ToxCast,RDKit,MLP+TL,NVS_ADME_hCYP2C19,classification,5,365,0.572,0.315,0.747,0.091,0.546,0.352,0.529,0.23,0.513,0.087
+ToxCast,SMARTS,MLP+TL,NVS_ADME_hCYP2C19,classification,5,365,0.889,0.004,0.8,0.006,1.0,0.0,0.8,0.006,0.53,0.135
+ToxCast,ECFP,MLP+TL,NVS_ADME_hCYP2C19,classification,5,365,0.469,0.351,0.797,0.164,0.436,0.367,0.474,0.225,0.578,0.101
+ToxCast,FCFP,MLP+TL,NVS_ADME_hCYP2C19,classification,5,365,0.69,0.123,0.814,0.04,0.621,0.183,0.584,0.119,0.553,0.071

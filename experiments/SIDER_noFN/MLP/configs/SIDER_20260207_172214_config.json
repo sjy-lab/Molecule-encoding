@@ -1,0 +1,32 @@
+{
+    "dataset": "SIDER",
+    "fingerprint_type": "MACCS",
+    "model_type": "MLP",
+    "model_config": {
+        "hidden_dims": [
+            256,
+            128,
+            32
+        ],
+        "dropout_rates": [
+            0.6,
+            0.6,
+            0.6
+        ],
+        "activation": "LeakyReLU",
+        "use_normalization": false,
+        "num_heads": 2,
+        "transformer_dim": 256,
+        "transformer_dropout": 0.1,
+        "num_layers": 3,
+        "embedding_dim": null
+    },
+    "training_config": {
+        "epochs": 100,
+        "batch_size": 16,
+        "learning_rate": 0.0005,
+        "weight_decay": 0.005,
+        "patience": 15,
+        "n_splits": 5
+    }
+}

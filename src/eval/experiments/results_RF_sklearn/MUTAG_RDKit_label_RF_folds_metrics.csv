@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+MUTAG,RDKit,label,1,val,0.842,0.833,0.88,0.917,0.846
+MUTAG,RDKit,label,1,test,0.816,0.871,0.863,0.846,0.88
+MUTAG,RDKit,label,2,val,0.737,0.846,0.8,0.833,0.769
+MUTAG,RDKit,label,2,test,0.865,0.962,0.906,0.828,1.0
+MUTAG,RDKit,label,3,val,0.737,0.846,0.8,0.833,0.769
+MUTAG,RDKit,label,3,test,0.865,0.937,0.906,0.857,0.96
+MUTAG,RDKit,label,4,val,0.684,0.782,0.75,0.818,0.692
+MUTAG,RDKit,label,4,test,0.784,0.882,0.818,0.947,0.72
+MUTAG,RDKit,label,5,val,0.842,0.923,0.889,0.857,0.923
+MUTAG,RDKit,label,5,test,0.703,0.857,0.744,0.889,0.64

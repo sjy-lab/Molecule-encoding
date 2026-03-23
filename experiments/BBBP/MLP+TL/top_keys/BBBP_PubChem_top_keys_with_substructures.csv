@@ -1,0 +1,101 @@
+Rank,Key_Position,Bit Substructure,Total_Attention_Score
+1,586,C-S-C-C-C,4.1259966
+2,34,>= 2 S,4.0855384
+3,349,C(~C)(~H)(~S),3.209844
+4,465,O=S-C-C,3.1411052
+5,507,C-C-S-C,3.0287826
+6,344,C(~C)(~H),2.882894
+7,0,>= 4 H,2.8511822
+8,11,>= 8 C,2.8448963
+9,658,C-C-S-C-C,2.603393
+10,18,>= 1 O,2.4869533
+11,293,C-S,2.3466482
+12,19,>= 2 O,2.3272498
+13,479,S-C-S-C,2.0761764
+14,457,S(-C)(=O),1.9514188
+15,20,>= 4 O,1.9502692
+16,283,C-H,1.8688661
+17,458,S(-O)(=O),1.7678847
+18,33,>= 1 S,1.7202027
+19,1,>= 8 H,1.6945992
+20,368,C(~H)(~S),1.6417125
+21,284,C-C,1.5994835
+22,459,S(=O)(=O),1.5436934
+23,2,>= 16 H,1.5337932
+24,332,C(~C)(~C),1.343982
+25,353,C(~C)(~S),1.3299928
+26,374,C(~H)(~H)(~H),1.2985934
+27,10,>= 4 C,1.2757418
+28,9,>= 2 C,1.1778212
+29,412,S(~C)(~C),0.96484447
+30,300,N-N,0.9607797
+31,296,C-Se,0.9607797
+32,297,C-Br,0.9607797
+33,302,N-F,0.9607797
+34,299,N-H,0.9607797
+35,295,C-As,0.9607797
+36,298,C-I,0.9607797
+37,294,C-Cl,0.9607797
+38,292,C-P,0.9607797
+39,291,C-Si,0.9607797
+40,290,C-Al,0.9607797
+41,289,C-Mg,0.9607797
+42,288,C-Na,0.9607797
+43,287,C-F,0.9607797
+44,286,C-O,0.9607797
+45,285,C-N,0.9607797
+46,281,B-Cl,0.9607797
+47,301,N-O,0.9607797
+48,327,C(~Br)(~C),0.9607797
+49,325,As-H,0.9607797
+50,324,P-P,0.9607797
+51,323,P-H,0.9607797
+52,322,Si-Cl,0.9607797
+53,321,Si-Si,0.9607797
+54,320,Si-H,0.9607797
+55,319,Al-Cl,0.9607797
+56,318,Al-H,0.9607797
+57,317,F-S,0.9607797
+58,316,F-P,0.9607797
+59,282,B-Br,0.9607797
+60,314,O-P,0.9607797
+61,313,O-Si,0.9607797
+62,312,O-Al,0.9607797
+63,311,O-Na,0.9607797
+64,310,O-Mg,0.9607797
+65,309,O-O,0.9607797
+66,308,O-H,0.9607797
+67,307,N-Br,0.9607797
+68,306,N-Cl,0.9607797
+69,305,N-S,0.9607797
+70,304,N-P,0.9607797
+71,303,N-Si,0.9607797
+72,315,O-K,0.9607797
+73,253,>= 1 unsaturated non-aromatic nitrogen-containing ring size 10,0.9607797
+74,252,>= 1 unsaturated non-aromatic carbon-only ring size 10,0.9607797
+75,251,>= 1 saturated or aromatic heteroatom-containing ring size 10,0.9607797
+76,250,>= 1 saturated or aromatic nitrogen-containing ring size 10,0.9607797
+77,249,>= 1 saturated or aromatic carbon-only ring size 10,0.9607797
+78,248,>= 1 any ring size 10,0.9607797
+79,247,>= 1 unsaturated non-aromatic heteroatom-containing ring size 9,0.9607797
+80,246,>= 1 unsaturated non-aromatic nitrogen-containing ring size 9,0.9607797
+81,245,>= 1 unsaturated non-aromatic carbon-only ring size 9,0.9607797
+82,244,>= 1 saturated or aromatic heteroatom-containing ring size 9,0.9607797
+83,243,>= 1 saturated or aromatic nitrogen-containing ring size 9,0.9607797
+84,242,>= 1 saturated or aromatic carbon-only ring size 9,0.9607797
+85,326,As-As,0.9607797
+86,240,>= 2 unsaturated non-aromatic heteroatom-containing ring size 8,0.9607797
+87,239,>= 2 unsaturated non-aromatic nitrogen-containing ring size 8,0.9607797
+88,238,>= 2 unsaturated non-aromatic carbon-only ring size 8,0.9607797
+89,237,>= 2 saturated or aromatic heteroatom-containing ring size 8,0.9607797
+90,236,>= 2 saturated or aromatic nitrogen-containing ring size 8,0.9607797
+91,235,>= 2 saturated or aromatic carbon-only ring size 8,0.9607797
+92,234,>= 2 any ring size 8,0.9607797
+93,233,>= 1 unsaturated non-aromatic heteroatom-containing ring size 8,0.9607797
+94,232,>= 1 unsaturated non-aromatic nitrogen-containing ring size 8,0.9607797
+95,231,>= 1 unsaturated non-aromatic carbon-only ring size 8,0.9607797
+96,230,>= 1 saturated or aromatic heteroatom-containing ring size 8,0.9607797
+97,229,>= 1 saturated or aromatic nitrogen-containing ring size 8,0.9607797
+98,227,>= 1 any ring size 8,0.9607797
+99,241,>= 1 any ring size 9,0.9607797
+100,280,B-S,0.9607797

@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+ToxCast,PubChem,NVS_ADME_hCYP2C19,1,val,0.924,0.977,0.93,0.927,0.933
+ToxCast,PubChem,NVS_ADME_hCYP2C19,1,test,0.908,0.973,0.917,0.898,0.936
+ToxCast,PubChem,NVS_ADME_hCYP2C19,2,val,0.91,0.974,0.92,0.889,0.952
+ToxCast,PubChem,NVS_ADME_hCYP2C19,2,test,0.915,0.976,0.923,0.903,0.943
+ToxCast,PubChem,NVS_ADME_hCYP2C19,3,val,0.926,0.974,0.933,0.912,0.955
+ToxCast,PubChem,NVS_ADME_hCYP2C19,3,test,0.915,0.977,0.923,0.906,0.94
+ToxCast,PubChem,NVS_ADME_hCYP2C19,4,val,0.92,0.979,0.928,0.911,0.945
+ToxCast,PubChem,NVS_ADME_hCYP2C19,4,test,0.909,0.971,0.916,0.909,0.924
+ToxCast,PubChem,NVS_ADME_hCYP2C19,5,val,0.91,0.975,0.919,0.898,0.94
+ToxCast,PubChem,NVS_ADME_hCYP2C19,5,test,0.922,0.979,0.93,0.909,0.951

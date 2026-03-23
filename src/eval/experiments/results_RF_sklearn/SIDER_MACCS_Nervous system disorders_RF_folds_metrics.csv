@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+SIDER,MACCS,Nervous system disorders,1,val,0.931,0.88,0.964,0.937,0.992
+SIDER,MACCS,Nervous system disorders,1,test,0.911,0.92,0.953,0.932,0.975
+SIDER,MACCS,Nervous system disorders,2,val,0.923,0.958,0.959,0.937,0.983
+SIDER,MACCS,Nervous system disorders,2,test,0.931,0.9,0.963,0.94,0.987
+SIDER,MACCS,Nervous system disorders,3,val,0.908,0.892,0.951,0.935,0.967
+SIDER,MACCS,Nervous system disorders,3,test,0.931,0.946,0.963,0.937,0.992
+SIDER,MACCS,Nervous system disorders,4,val,0.908,0.85,0.951,0.929,0.975
+SIDER,MACCS,Nervous system disorders,4,test,0.934,0.925,0.966,0.937,0.996
+SIDER,MACCS,Nervous system disorders,5,val,0.946,0.938,0.972,0.945,1.0
+SIDER,MACCS,Nervous system disorders,5,test,0.934,0.946,0.965,0.94,0.992

@@ -1,0 +1,6 @@
+metric,formatted
+f1,0.930 ± 0.018
+precision,0.977 ± 0.006
+recall,0.887 ± 0.030
+accuracy,0.876 ± 0.030
+auc,0.918 ± 0.013

@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+BBBP,SMARTS,p_np,1,val,0.862,0.889,0.914,0.867,0.966
+BBBP,SMARTS,p_np,1,test,0.887,0.888,0.929,0.892,0.97
+BBBP,SMARTS,p_np,2,val,0.867,0.863,0.916,0.887,0.946
+BBBP,SMARTS,p_np,2,test,0.895,0.93,0.934,0.9,0.97
+BBBP,SMARTS,p_np,3,val,0.887,0.906,0.929,0.89,0.973
+BBBP,SMARTS,p_np,3,test,0.871,0.892,0.919,0.89,0.949
+BBBP,SMARTS,p_np,4,val,0.877,0.893,0.924,0.879,0.973
+BBBP,SMARTS,p_np,4,test,0.879,0.913,0.925,0.883,0.97
+BBBP,SMARTS,p_np,5,val,0.831,0.844,0.895,0.849,0.946
+BBBP,SMARTS,p_np,5,test,0.879,0.905,0.924,0.891,0.96

@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,mae,mse,r2,rmse
+ESOL,SMARTS,measured log solubility in mols per litre,1,val,0.769,1.21,0.729,1.1
+ESOL,SMARTS,measured log solubility in mols per litre,1,test,0.79,1.158,0.738,1.076
+ESOL,SMARTS,measured log solubility in mols per litre,2,val,0.739,0.922,0.796,0.96
+ESOL,SMARTS,measured log solubility in mols per litre,2,test,0.808,1.163,0.747,1.079
+ESOL,SMARTS,measured log solubility in mols per litre,3,val,0.779,1.272,0.744,1.128
+ESOL,SMARTS,measured log solubility in mols per litre,3,test,0.788,1.194,0.691,1.093
+ESOL,SMARTS,measured log solubility in mols per litre,4,val,0.864,1.17,0.743,1.082
+ESOL,SMARTS,measured log solubility in mols per litre,4,test,0.718,0.948,0.791,0.974
+ESOL,SMARTS,measured log solubility in mols per litre,5,val,0.78,1.235,0.741,1.111
+ESOL,SMARTS,measured log solubility in mols per litre,5,test,0.75,1.081,0.756,1.04

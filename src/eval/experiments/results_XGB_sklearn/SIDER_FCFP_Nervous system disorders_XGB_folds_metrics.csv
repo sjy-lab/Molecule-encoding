@@ -1,0 +1,11 @@
+dataset,fingerprint,target_assay,fold,set,accuracy,auc,f1,precision,recall
+SIDER,FCFP,Nervous system disorders,1,val,0.908,0.929,0.949,0.966,0.933
+SIDER,FCFP,Nervous system disorders,1,test,0.892,0.908,0.94,0.973,0.908
+SIDER,FCFP,Nervous system disorders,2,val,0.9,0.961,0.943,0.991,0.9
+SIDER,FCFP,Nervous system disorders,2,test,0.88,0.95,0.932,0.991,0.879
+SIDER,FCFP,Nervous system disorders,3,val,0.931,0.948,0.961,0.991,0.933
+SIDER,FCFP,Nervous system disorders,3,test,0.888,0.944,0.937,0.973,0.904
+SIDER,FCFP,Nervous system disorders,4,val,0.885,0.92,0.935,0.973,0.9
+SIDER,FCFP,Nervous system disorders,4,test,0.888,0.93,0.937,0.977,0.9
+SIDER,FCFP,Nervous system disorders,5,val,0.885,0.921,0.934,0.982,0.892
+SIDER,FCFP,Nervous system disorders,5,test,0.888,0.95,0.936,0.991,0.887
