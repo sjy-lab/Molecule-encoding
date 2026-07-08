@@ -1,6 +1,6 @@
 # FeatureNet Molecular Embedding
 
-This is the code repository for the paper **"[Paper Title]"** by [Authors].
+This is the code repository for the paper **"A systematic investigation of molecular encoding methods for drug property predictions across neural network and Transformer encoder-based model"** by Sheng-Ya Chen and Shan-Ju Yeh.
 
 ---
 
