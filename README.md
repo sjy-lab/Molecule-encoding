@@ -28,7 +28,7 @@ This repository implements a molecular property prediction framework that combin
 
 | Fingerprint | Type          | Precompute Required |
 |-------------|---------------|---------------------|
-| MACCS       | Rule-based    | No                  |
+| MACCS       | Substructure-based    | No                  |
 | ECFP        | Circular      | No                  |
 | FCFP        | Feature-based | No                  |
 | RDKit       | Topological   | No                  |
