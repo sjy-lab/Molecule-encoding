@@ -87,7 +87,7 @@ FeatureNet_mol_embedding_ya/
 ### Step 1 — Precompute Fingerprints (PubChem / SMARTS only)
 
 For fingerprints that require precomputation, run the corresponding script before training.
-See [`fingerprint_preprocess/README.md`](fingerprint_preprocess/README.md) for details.
+See [`fingerprint_preprocess/FINGERPRINT_GUIDE.md`](fingerprint_preprocess/FINGERPRINT_GUIDE.md) for details.
 
 ```bash
 python fingerprint_preprocess/precompute_PubChem.py \
